@@ -1,0 +1,30 @@
+[
+  {
+    "nama": "Adam Arthur Faizal",
+    "umur": 17,
+    "nim": "M3119001",
+    "lulus": true,
+    "hobby": [
+      "coding",
+      "gaming"
+    ],
+    "pembimbing": {
+      "pembimbing1": "Agus Purbayu",
+      "pembimbing2": "Sahirul Alim Tri Bawono"
+    }
+  },
+  {
+    "nama": "Mbah Putih Mulyosugito",
+    "umur": 107,
+    "nrp": "M3119000",
+    "lulus": true,
+    "hobby": [
+      "coding",
+      "gaming"
+    ],
+    "pembimbing": {
+      "pembimbing1": "Rudy Hartono",
+      "pembimbing2": "Abdul Aziz"
+    }
+  }
+]
